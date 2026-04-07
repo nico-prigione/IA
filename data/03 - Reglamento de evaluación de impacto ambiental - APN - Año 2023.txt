@@ -1,0 +1,771 @@
+- El Artículo 41 de la CONSTITUCIÓN NACIONAL establece el derecho de los habitantes a
+gozar de un ambiente sano, de la preservación del patrimonio natural y cultural y la diversidad
+biológica y que las autoridades proveerán a la protección de este derecho.
+- El Artículo 75, inciso 17 de la CONSTITUCIÓN NACIONAL establece el reconocimiento a la
+preexistencia étnica y cultural de los pueblos indígenas argentinos, el derecho a su identidad y a la
+posesión y propiedad de sus tierras, así como establece que deberán participar en la gestión referida a
+sus recursos naturales y a los intereses que los afecten.
+- La CONVENCIÓN SOBRE PROTECCIÓN DEL PATRIMONIO MUNDIAL, CULTURAL Y
+NATURAL aprobada por Ley Nacional Nº 21.836, tiene como objeto identificar, proteger,
+conservar, rehabilitar y transmitir a las generaciones futuras el patrimonio cultural y natural
+situado en su territorio. Dicho Convenio promueve el establecimiento de medidas de conservación
+en aquellos bienes del patrimonio cultural y natural que se vieran amenazados debido a un
+deterioro acelerado por proyectos de grandes obras públicas o privadas, rápido desarrollo urbano y
+turístico, destrucción debida a cambios de utilización o de propiedad de tierra, entre otras. El
+mismo se aplica en las Áreas Protegidas Nacionales designadas, o que fueran a ser designadas a
+futuro, como sitios de Patrimonio de la Humanidad.
+- El CONVENIO SOBRE DIVERSIDAD BIOLÓGICA, aprobado por Ley Nacional Nº 24.375,
+establece como objetivo la conservación de la diversidad biológica, la utilización sostenible de sus
+componentes y la participación justa y equitativa en los beneficios que se deriven de la utilización
+de los recursos genéticos. Dicho Convenio define que se establecerán procedimientos apropiados
+por los que se exija la Evaluación del Impacto Ambiental de los Proyectos propuestos que puedan
+tener efectos adversos importantes para la diversidad biológica con miras a evitar o reducir al
+mínimo esos efectos y, cuando proceda, permitirá la participación del público en esos
+procedimientos.
+- El CONVENIO Nº 169 DE LA ORGANIZACIÓN INTERNACIONAL DEL TRABAJO (OIT),
+SOBRE PUEBLOS INDÍGENAS Y TRIBALES EN PAÍSES INDEPENDIENTES, aprobado por
+Ley Nacional Nº 24.071, reconoce la aspiración de los pueblos indígenas a controlar sus
+instituciones, sus modos de vida y de desarrollo económico y a conservar y desarrollar su
+identidad, así como el derecho de propiedad y de posesión sobre las tierras que tradicionalmente
+ocupan, y el derecho a participar en la utilización, administración y conservación de los recursos
+naturales. Dicho Convenio establece que los gobiernos deberán consultar a los pueblos indígenas
+mediante procedimientos apropiados y a través de sus instituciones representativas, cada vez que
+se prevean medidas que puedan afectarles directamente, y que las consultas deberán efectuarse de
+buena fe y con la finalidad de llegar a un acuerdo o consentimiento.
+- La Ley Nº 22.351, de PARQUES NACIONALES, MONUMENTOS NATURALES Y
+RESERVAS NACIONALES, establece los procedimientos para la declaración de parques
+nacionales, monumentos naturales o reservas nacionales de aquellas áreas del territorio nacional
+que por sus extraordinarias bellezas o riquezas en flora o fauna autóctona o en razón de un interés
+científico determinado deben ser protegidas y conservadas para investigaciones científicas,
+educación y goce de las presentes y futuras generaciones.
+- La Ley Nº 25.675, LEY GENERAL DEL AMBIENTE, constituye la ley ambiental marco que
+establece los presupuestos mínimos para el logro de una gestión sustentable y adecuada del
+ambiente, la preservación y protección de la diversidad biológica y la implementación del
+desarrollo sustentable. Por lo cual, la interpretación y aplicación de este Reglamento, como
+elemento de política ambiental nacional, se ajusta a los objetivos y principios establecidos por
+esta, que instaura a la Evaluación de Impacto Ambiental como uno de los instrumentos de la
+política y la gestión ambiental.
+- La Ley Nº 25.743, de PROTECCIÓN DEL PATRIMONIO ARQUEOLÓGICO Y
+PALEONTOLÓGICO, establece la preservación, protección y tutela del Patrimonio Arqueológico
+y Paleontológico como parte integrante del Patrimonio Cultural de la Nación y el
+aprovechamiento científico y cultural del mismo.
+- La Ley N° 27.246, que aprueba el PROTOCOLO DE NAGOYA SOBRE ACCESO A LOS
+RECURSOS GENÉTICOS Y PARTICIPACIÓN JUSTA Y EQUITATIVA EN LOS
+BENEFICIOS QUE SE DERIVEN DE SU UTILIZACIÓN AL CONVENIO SOBRE LA
+DIVERSIDAD BIOLÓGICA. El objetivo del mismo es la participación justa y equitativa en los
+beneficios que se deriven de la utilización de los recursos genéticos, incluso por medio del acceso
+apropiado a los recursos genéticos y por medio de la transferencia apropiada de tecnologías
+pertinentes, teniendo en cuenta todos los derechos sobre dichos recursos y tecnologías y por medio
+de la financiación apropiada, contribuyendo por ende a la conservación de la diversidad biológica
+y la utilización sostenible de sus componentes.
+- La Ley Nº 27.566, de ACUERDO REGIONAL SOBRE EL ACCESO A LA INFORMACIÓN,
+LA PARTICIPACIÓN PÚBLICA Y EL ACCESO A LA JUSTICIA EN ASUNTOS
+AMBIENTALES EN AMÉRICA LATINA Y EL CARIBE, cuyo objetivo es garantizar el derecho
+de todas las personas a tener acceso a la información ambiental, la participación pública en los
+procesos de toma de decisiones ambientales y acceso a la justicia en asuntos ambientales.
+- El Decreto N° 2148/1990, de Reservas Naturales Estrictas, crea la categoría de área protegida
+mencionada y, entre otras cosas, incorpora sus definiciones, objetivos y prohibiciones.
+- El Decreto N° 453/1994, Reservas Naturales Silvestres y Educativas, crea las categorías de áreas
+protegidas mencionadas, incorpora sus definiciones, objetivos y prohibiciones; y fija los límites
+definitivos de las Reservas Naturales Estrictas.
+Artículo 1º. El presente Reglamento tiene por objeto establecer el procedimiento de Evaluación
+de Impacto Ambiental (EIA) y los instrumentos o herramientas de evaluación y monitoreo
+ambiental que se requerirán para la evaluación y toma de decisión respecto a la ejecución de
+proyectos públicos o privados a llevarse a cabo en las áreas protegidas bajo jurisdicción de la
+ADMINISTRACIÓN DE PARQUES NACIONALES (APN) sujetas al régimen de la Ley 22.351.
+Artículo 2º. La terminología y acrónimos utilizados en el presente Reglamento se encuentran
+definidos en el Anexo I – Acrónimos y Definiciones.
+Artículo 3º. Todos los proyectos públicos o privados, consistentes en obras, instalaciones,
+prestaciones de servicios, aprovechamientos de recursos naturales, o cualquier otra actividad a
+desarrollarse en las áreas protegidas bajo jurisdicción de la APN sujetas al régimen de la Ley
+22.351 requerirán, en forma previa a su autorización, la aplicación del procedimiento de
+evaluación de impacto ambiental previsto en el presente Reglamento.
+Artículo 4º. Se entiende por Proyecto a una actividad, emprendimiento u obra que se desarrolla
+por iniciativa de un proponente. Bajo esta denominación se consideran las sucesivas fases y/o
+etapas que abarcan su desarrollo o ciclo de proyecto. Los proyectos no podrán ser segmentados
+para su evaluación, prohibiéndose la aprobación de estudios o informes ambientales que analicen
+actividades particulares, fases y/o etapas que formen parte de un proyecto de mayor envergadura.
+Artículo 5º. Quedan excluidos de la aplicación de este Reglamento los proyectos de investigación
+científica, de ordenamiento ganadero y los proyectos de conservación que se lleven a cabo por la
+ADMINISTRACIÓN DE PARQUES NACIONALES o por terceros, los que se rigen por su
+normativa específica, Resoluciones Nros. 370/2022, 223/2020 y 566/2022 del Directorio de la
+ADMINISTRACIÓN DE PARQUES NACIONALES, o cualquier otra normativa que las
+sustituya, modifique o complemente en el futuro.
+Artículo 6º. En los casos que la Dirección Regional (DR) o la Intendencia considere que los
+proyectos enmarcados en la normativa mencionada en el Artículo 5º impliquen un impacto para el
+ambiente o sus especies, podrá requerir la aplicación complementaria del presente Reglamento.
+Artículo 7º. El procedimiento de evaluación de impacto ambiental y los estudios e informes
+ambientales tienen por objeto proporcionar a la APN una herramienta idónea para:
+I. Evaluar adecuadamente la factibilidad ambiental y conveniencia de realizar los
+proyectos que se propongan.
+II. Aportar a la prevención y/o minimización y/o compensación de los impactos
+ambientales negativos que pudieran derivarse de la ejecución o funcionamiento de los
+proyectos.
+III. Aportar a la potenciación de los impactos positivos esperados.
+IV. Aportar a la sustentabilidad ambiental y social de los proyectos en concordancia con
+los objetivos y prioridades de gestión de la APN y los objetivos particulares de
+conservación de la/s áreas protegida/s (AP) involucrada/s.
+Artículo 8º. Los instrumentos de evaluación y monitoreo ambiental previstos en el presente
+Reglamento son:
+I. Ficha de Proyecto.
+II. Evaluación Ambiental Expeditiva (EAEx).
+III. Estudios e Informes Ambientales: Estudio de Impacto Ambiental (EsIA), Informe de
+Impacto Ambiental (IIA) e Informe Medioambiental (IMA).
+IV. Supervisión Ambiental.
+V. Diagnóstico Ambiental.
+Artículo 9º. La aprobación de los estudios e informes ambientales no implica la autorización para
+la realización del proyecto o actividad en cuestión, la que deberá ser emitida por la autoridad
+administrativa que corresponda en el marco de la Ley Nº 22.351 y la estructura orgánica vigente
+en la APN.
+Participación pública y consulta previa, libre e informada
+Artículo 10º. La APN deberá establecer una instancia de participación de la sociedad civil en los
+términos fijados en el Artículo 42 del presente Reglamento. Asimismo, esta instancia de
+participación pública será optativa a criterio de la APN en los términos fijados en el Artículo 51
+del presente Reglamento.
+Artículo 11°. En el caso de proyectos que pudieran afectar derechos colectivos de las
+comunidades indígenas y los territorios de ocupación y uso tradicional y actual, se deberá
+desarrollar el procedimiento de Consulta Previa, Libre e Informada (CPLI) de acuerdo con lo
+estipulado en el Protocolo aprobado por Resolución Nº 458/2021 del Directorio o la normativa
+que la sustituya, modifique o complemente en el futuro. 
+Requisitos de la Información utilizada para los estudios e informes
+Artículo 12°. La APN considerará como válida la siguiente información para ser utilizada en la
+realización de los estudios e informes ambientales:
+I. Información de autores editada en publicaciones científicas o técnicas especializadas.
+II. Información de campo obtenida y certificada por personal idóneo en el tema en
+cuestión.
+III. Información producida por expertos nacionales y/o internacionales.
+IV. Criterios o metodologías de evaluación usualmente utilizados a nivel internacional,
+nacional o provincial. Se recomienda la consulta a los instrumentos de gestión
+ambiental de aplicación particular según el tipo de proyecto.
+Artículo 13°. Para la realización de relevamientos y/o muestreos que resulten necesarios a criterio
+del proponente con objeto de obtención de información para la elaboración de estudios o informes
+ambientales, se deberá solicitar autorización a la Intendencia del AP involucrada, debiendo el
+profesional responsable detallar en la solicitud del permiso:
+I. Datos de referencia del Proyecto (nombre o título, proponente, responsable ambiental)
+II. Datos de los participantes del relevamiento (nombre y apellido, documento de identidad,
+domicilio, correo electrónico, consultora/institución)
+III. Actividades a realizar (toma de fotografías, muestreos, etc.), breve descripción de
+metodologías y detalle georreferenciado de los sitios de relevamiento y/o muestreo.
+Artículo 14°. La información utilizada para elaborar los estudios o informes ambientales, obtenida
+a campo por el proponente, deberá conservarse y estar a disposición para su consulta o
+verificación por parte del personal técnico de la APN o quien ésta designe para la evaluación y/o
+supervisión ambiental.
+Asignación de costos
+Artículo 15°. Todos los gastos emergentes del procedimiento de EIA (elaboración, presentación,
+evaluación y aprobación) estarán a cargo del proponente del proyecto, lo cual incluye:
+I. Los costos de funcionamiento de la Comisión Evaluadora para EsIA, y los honorarios de
+los especialistas externos que puedan requerirse para la evaluación de informes
+ambientales (IIA o IMA).
+Para determinar los honorarios correspondientes a dichos profesionales externos, se fijarán
+en cada caso en relación a la magnitud y complejidad del proyecto y, se tomarán como
+medida de referencia los aranceles establecidos por el Consejo Profesional de Ingeniería
+Agronómica, multiplicados por los días de trabajo de campo y de gabinete que se
+establezcan para cada caso. Sobre el monto de honorarios mencionado precedentemente, la
+APN percibirá un DIEZ por ciento (10%) adicional, en concepto de gastos administrativos.
+II. Los costos que demande la supervisión ambiental, los que serán establecidos para cada
+caso por la instancia responsable de dicha supervisión.
+III. Los costos de publicación en medios de comunicación y difusión de los comunicados y/o
+avisos referidos a los procesos de participación pública, en los casos que corresponda.
+Estos montos se depositarán en la cuenta oficial de la APN que se indique para cada caso.
+Disposiciones de aplicación interna del Reglamento
+Artículo 16°. A fin de cumplimentar con lo establecido en el presente Reglamento, la APN deberá
+asegurar los medios y la capacitación necesaria a su personal en lo relativo a la aplicación del
+procedimiento de evaluación de impacto ambiental, la realización y evaluación de estudios e
+informes ambientales y la ejecución de las supervisiones correspondientes.
+Artículo 17°. Los actos administrativos emitidos por APN sobre procesos de evaluación de
+impacto ambiental dentro de los alcances del presente Reglamento, deberán citar en sus
+considerandos la documentación de referencia (ficha del proyecto, EAEx, anexo técnico, informe
+o estudio ambiental y Dictamen Técnico), según corresponda. Los emitidos por las Intendencias
+deberán ser remitidos mensualmente a la DR y los emitidos por los DR deberán ser remitidos
+mensualmente a la Dirección Nacional de Conservación (DNC) para su registro y seguimiento.
+Vigencia de los actos administrativos
+Artículo 18°. El acto administrativo de aprobación de los estudios e informes ambientales o
+exenciones de dicha obligación, en el marco del presente Reglamento, que fueran referidos a
+servicios turísticos y/o aprovechamientos de recursos que tengan continuidad en el tiempo,
+tendrán la vigencia que allí se establezca, no pudiendo exceder el plazo máximo de DIEZ (10)
+años. En tal sentido, la continuidad de la actividad quedará sujeta a lo que se establece en el Título
+II, Capítulo 8 del presente Reglamento.
+Artículo 19°. En caso de que el proyecto no se haya ejecutado desde su autorización y que la APN
+constate que hubieran cambios en las condiciones del ambiente, en las categorías de conservación
+del AP involucrada, que el avance del conocimiento científico pusiera en relieve valores
+ambientales relevantes, impactos o incluso riesgos ambientales no tenidos en cuenta
+oportunamente, y/o que la documentación técnica del proyecto en cuestión hubiera sido objeto de
+modificaciones, el acto administrativo perderá vigencia debiéndose desarrollar un nuevo proceso
+de EIA.
+Artículo 20°. En el Anexo II, se desarrolla un esquema a modo ilustrativo del procedimiento
+técnico-administrativo de Evaluación de Impacto Ambiental establecido en el presente
+Reglamento.
+Artículo 21°. Los instrumentos de aplicación general y sucesiva, son:
+I. Ficha de Proyecto: a ser presentada por el proponente del Proyecto ante la mesa de
+entradas de la Intendencia respectiva. Deberá contemplar lo indicado en el Capítulo 1
+del presente Título y en el Anexo III del presente Reglamento.
+II. Evaluación Ambiental Expeditiva (EAEx): a ser realizada por la Dirección Regional
+correspondiente.
+Artículo 22°. Los instrumentos de aplicación particular son:
+I. Estudio de Impacto Ambiental (EsIA): deberá contemplar los aspectos indicados en el
+CAPÍTULO 4 del presente Título.
+II. Informe de Impacto Ambiental (IIA): deberá contemplar los aspectos indicados en el
+CAPÍTULO 5 del presente Título.
+III. Informe Medioambiental (IMA): deberá contemplar los aspectos indicados en el
+CAPÍTULO 6 del presente Título.
+Artículo 23°. El proponente deberá presentar la siguiente documentación, firmada en carácter de
+declaración jurada:
+I. Ficha de proyecto
+II. Estudio de impacto ambiental (EsIA), Informe de impacto ambiental (IIA) o Informe
+medioambiental (IMA), cuando corresponda.
+Artículo 24°. Tanto los EsIA como los IIA deberán ser elaborados por consultoras o equipos
+interdisciplinarios coordinados por un profesional inscripto en el Registro Nacional de
+Consultores en Evaluación Ambiental del Ministerio de Ambiente y Desarrollo Sostenible de la
+Nación (MAyDS). Quedando exceptuado de cumplir tal exigencia el personal técnico profesional
+de la APN.
+Artículo 25°. Los IMAs deberán ser elaborados por profesionales que acrediten, como requisito
+mínimo, contar con título terciario o universitario y un perfil profesional afín a las características del
+proyecto y/o del medio receptor. 
+CAPITULO 1. FICHA DE PROYECTO
+Artículo 26°. La ficha de Proyecto es el documento a ser completado por el proponente de un
+Proyecto, por el cual se da inicio al procedimiento de EIA. Contiene los datos básicos del proyecto
+que permitirán analizar su factibilidad legal y reglamentaria para encuadrarlo en una Tipología
+según el riesgo ambiental que podría verse asociado al mismo, en virtud de lo indicado en el
+Anexo IV del presente Reglamento.
+Artículo 27°. El proponente que pretenda llevar a cabo un proyecto de carácter público o privado
+en jurisdicción de APN deberá presentar ante la Intendencia del AP, una Ficha de Proyecto con los
+datos solicitados de acuerdo al Anexo III del presente Reglamento, junto con la documentación
+complementaria y/o proyecto completo en caso de disponerlo. Para el caso de proyectos propios
+de la APN, la ficha deberá ser completada por la Intendencia del AP, y en el caso de corresponder,
+en coordinación con otras instancias participantes.
+Artículo 28°. El proyecto podrá ser rechazado por la Intendencia mediante acto dispositivo, de
+acuerdo con la información suministrada en la Ficha proyecto, en función de su encuadre a la
+normativa vigente, justificación, factibilidad e impacto ambiental, su pertinencia respecto a los
+planes de gestión de las AP involucradas y los objetivos de conservación de la AP.
+Artículo 29°. En caso de que el proponente, presente el proyecto en el marco de una relación
+contractual vigente con otro organismo público nacional, provincial o municipal, deberá presentar
+junto con la Ficha de Proyecto, la documentación que acredite tal relación contractual.
+Artículo 30°. Todos los proyectos presentados se clasificarán de acuerdo a su riesgo ambiental en
+CUATRO (4) tipologías:
+- Tipo 1: son aquellos de mayor complejidad y con riesgo ambiental alto.
+- Tipo 2: son aquellos de complejidad y riesgo ambiental medio.
+- Tipo 3: son aquellos de complejidad y riesgo ambiental bajo.
+- Tipo 4: son aquellos proyectos con baja incidencia en el ambiente, en virtud de lo
+estipulado en el Capítulo 2 del presente Reglamento.
+Artículo 31°. En el caso de que el proyecto sea encuadrable como Tipo 4 –es decir, que quedan
+exceptuados de la elaboración de informe ambiental (ver Capítulo 2 y Anexo IV del presente
+Reglamento)–, el trámite se desarrollará en el ámbito administrativo de la Intendencia del AP
+donde se llevará a cabo el proyecto. La Intendencia podrá solicitar la asistencia técnica de la DR
+correspondiente en caso de requerirlo.
+Artículo 32°. En los casos no encuadrables como Tipo 4, las Intendencias de las AP remitirán a la
+DR correspondiente la Ficha de Proyecto junto con un informe que contenga un análisis técnico
+sobre el desarrollo del proyecto, que incluya información relativa a la caracterización del AP y del
+sitio de implementación del proyecto, y otros aspectos relevantes que permitan una correcta
+confección de la EAEx. La DR realizará la EAEx y le asignará una tipología al proyecto de acuerdo con el Anexo IV del presente Reglamento.
+CAPITULO 2. PROYECTOS TIPO 4
+Artículo 33°. Los proyectos Tipo 4 son aquellos que, por sus características propias la APN
+considera que presentan una incidencia baja en el ambiente y, por lo tanto, se consideran
+exceptuados de la realización de estudio o informe ambiental, en virtud de los estipulado en el
+Anexo IV del presente Reglamento. Únicamente podrán encuadrarse bajo esta tipología aquellos
+proyectos taxativamente previstos como tales en el Anexo IV. Asimismo, la Dirección Nacional
+de Conservación podrá anualmente actualizar el Anexo IV mediante la suscripción de acto
+dispositivo.
+Artículo 34°. La Intendencia correspondiente verificará que el Proyecto se encuadre en la
+tipología 4 y –en caso de no existir objeciones o restricciones de otra índole–, emitirá una
+Disposición que así lo determine, la que deberá contener un Anexo Técnico, –según formulario
+incluido en el Anexo V del presente Reglamento– por el que se acredite el cumplimiento de las
+condiciones determinadas para dicha tipología en el Anexo IV, y se establezcan los recaudos y
+condiciones que pudieran ser necesarias, para minimizar cualquier posible impacto ambiental
+negativo. En dicha Disposición se autorizará el proyecto salvo que requiera la intervención de otra
+instancia de la APN, de acuerdo con el Artículo 9º del presente. Posteriormente, dicho acto
+administrativo deberá ser notificado a la DR según Artículo 16.
+CAPÍTULO 3. EVALUACIÓN AMBIENTAL EXPEDITIVA (PROYECTOS TIPO 1, 2 Y
+3)
+Artículo 35°. La EAEx es una evaluación de las principales interrelaciones entre la Tipología del
+Proyecto, según lo estipulado en el Anexo IV del presente Reglamento, y la sensibilidad ambiental
+del medio receptor que determina la categoría de estudio o informe ambiental a presentar, su
+exención, o el rechazo del proyecto. Esta evaluación es realizada por las DR.
+Artículo 36°. La DR correspondiente, en base a la Ficha de Proyecto, realizará una EAEx
+tomando como guía el Anexo VI del presente Reglamento. Esta evaluación resultará en una de las
+siguientes alternativas:
+a) Solicitud de una ampliación o corrección de la Ficha de Proyecto presentada, o de la
+información consignada por la Intendencia, por considerarla insuficiente o incompleta a los fines
+de la EAEx.
+b) Exención de la realización del IMA para proyectos en los que sea factible determinar una
+mínima incidencia ambiental (no significativa). En estos casos, la DR emitirá una Disposición que dicte dicha exención, la cual deberá contar con un Anexo Técnico Complementario que fije los
+recaudos y condiciones ambientales bajo las que debe desarrollarse el proyecto/actividad.
+c) Determinación de la categoría de estudio o informe ambiental -EsIA, IIA, o IMA- según lo
+previsto en el presente Reglamento.
+d) Rechazo del Proyecto por su nivel de riesgo ambiental.
+Artículo 37°. El proponente deberá presentar ante la DR o Intendencia de Alta Complejidad la
+documentación referida al proyecto o, en caso de que la APN lo requiera, la documentación a nivel de
+anteproyecto, pudiendo elaborarse términos de referencia (TDR) específicos en base a los cuales
+deberá efectuarse el Estudio o Informe correspondiente (EsIA, IIA, o IMA). Asimismo, la APN
+podrá solicitar modificaciones al Proyecto para acondicionarlo de modo tal que se minimicen los
+impactos.
+CAPÍTULO 4. ESTUDIO DE IMPACTO AMBIENTAL (ESIA)
+Procedimiento
+Artículo 38°. El EsIA es un estudio técnico-científico a ser presentado por el proponente de un
+Proyecto que puede tener o tiene alta incidencia en el medio ambiente y que la APN lo clasifique
+como tal.
+Artículo 39°. El proponente deberá presentar a la Intendencia, DR o DNC, el EsIA del Proyecto,
+el cual será sometido a un análisis preliminar. La instancia correspondiente podrá solicitar al
+proponente correcciones al estudio por considerarlo incompleto o insuficiente, o requerir
+modificaciones al proyecto para acondicionarlo de modo tal que se minimicen los impactos.
+Artículo 40°. Una vez aceptado el EsIA por la DR y/o DNC, ésta última designará, mediante acto
+dispositivo, la Comisión Evaluadora ad hoc que analizará el EsIA. Esta Comisión será de carácter
+interdisciplinario, y estará conformada por expertos en el área o temática del Proyecto a evaluar.
+Dichos expertos podrán ser profesionales propios de la APN o externos con experiencia en la
+materia a evaluar.
+Artículo 41°. En caso de que la información consignada en el EsIA se considere inválida o
+insuficiente, la Comisión podrá solicitar al proponente que efectúe, en un plazo de QUINCE (15)
+días hábiles (prorrogable por excepción), las correcciones o ampliaciones solicitadas. Vencido el
+plazo, el Dictamen Técnico se realizará atendiendo a la documentación presentada. Asimismo,
+dicha Comisión podrá solicitar modificaciones al proyecto para acondicionarlo de modo tal que se
+minimicen los impactos.
+Artículo 42°. El EsIA será puesto a disposición de cualquier organismo, entidad o persona
+interesada en tomar conocimiento y efectuar las observaciones que considere convenientes, dentro
+de los QUINCE (15) días corridos posteriores a la publicación. A tal efecto, se publicarán los
+lugares y plazos para acceder al EsIA en un diario de circulación nacional y en el diario de mayor
+circulación de la Provincia correspondiente al AP donde se pretenda llevar a cabo el Proyecto.
+Además, el EsIA se publicará en el sitio Web oficial de la APN. Una vez vencido el plazo, la
+Comisión evaluará las opiniones recibidas y emitirá su Dictamen Técnico, el cual será remitido a
+la DNC.
+Artículo 43°. El Dictamen Técnico producido por la Comisión Evaluadora se expedirá sobre la
+factibilidad de aprobación del estudio ambiental, proponiendo las condiciones para la autorización
+del Proyecto o en su defecto presentará los fundamentos por los cuales se propone su rechazo.
+Artículo 44°. La DNC elevará al Directorio de la APN la propuesta de aprobación o
+desaprobación del EsIA en función del Dictamen Técnico de la Comisión Evaluadora y de las
+condiciones necesarias para la autorización o rechazo del Proyecto.
+Artículo 45°. El Directorio de la APN emitirá una resolución para aprobar o desaprobar el EsIA, y
+que dará lugar al procedimiento correspondiente para autorizar o rechazar el Proyecto. En caso de
+considerarse necesario, se podrá establecer en dicho acto una revisión de medio término del
+proyecto y sus impactos ambientales.
+Contenidos del EsIA
+Artículo 46°. El EsIA del Proyecto deberá ser conciso, ajustado a la escala y características del
+Proyecto y su medio receptor, considerando los aspectos ambientales más importantes y
+significativos. El EsIA deberá referirse, entre otros, a los aspectos que se citan a continuación:
+1. Descripción del Proyecto
+Descripción detallada del Proyecto, incluyendo como mínimo la siguiente información:
+I. Localización
+II. Objetivos y justificación
+III. Destinatarios/usuarios
+IV. Beneficiarios directos e indirectos
+V. Costo estimado y cronograma de inversión
+VI. Cronograma del Proyecto
+VII. Memoria descriptiva para cada etapa del proyecto:
+- Croquis generales de ubicación, planos de obra, descripción de detalles operativos de cada
+etapa. Si correspondiere, deberá presentarse aprobación o conformidad de la autoridad
+(nacional, provincial o municipal) competente en la materia que se trate.
+- Delimitación del área operativa y de influencia
+- Superficie a afectar (directa e indirecta)
+- Diseño y características
+- Actividades a desarrollar
+- Tecnología a emplear/maquinaria
+- Insumos/recursos a utilizar en forma directa o indirecta (energía, suelo, agua, biota, otros)
+- Generación de residuos según tipología
+- Personal involucrado
+VIII. Planimetría general y ubicación de la obra. Especial atención deberá darse, entre otros, a la
+identificación y localización en mapas a escala adecuada para el área operativa de los sitios de
+extracción de materiales; lugares de disposición de insumos, acopios, materiales excedentes y
+desechos; residuos peligrosos; obradores y otras instalaciones auxiliares; eventuales caminos de
+acceso; fuentes de provisión de energía, suelo, agua, etc.
+IX. Cierre, remediación y/o restauración y abandono.
+2. Análisis de alternativas del proyecto
+Todos los EsIA, deberán contar con un detallado análisis de alternativas del proyecto propuesto, el
+cual debe explorar y evaluar objetivamente las alternativas razonables y detallar aquellas que fueron
+descartadas y las razones. Deberá incluirse:
+I. La alternativa de "no-acción", es decir la no ejecución del proyecto, con el objeto de presentar y
+analizar las condiciones ambientales sin el mismo.
+II. El desarrollo del proyecto en diferentes alternativas, ya sea por variaciones de localización,
+diseño, procedimiento de construcción, operación y terminación del proyecto, magnitud y
+cambios en las etapas y tiempos requeridos para cada una. Indicar cuáles de los principales
+impactos de cada alternativa son irreversibles o inevitables y cuáles pueden ser mitigados.
+III. Cuantificación de los costos y beneficios de cada alternativa, incorporando los costos de las
+medidas de mitigación asociadas.
+IV. Identificación clara de la selección realizada y su justificación.
+V. Análisis detallado de los costos ambientales.
+3. Encuadre legal, contractual y reglamentario del proyecto
+El análisis de los aspectos legales y reglamentarios que deberán realizarse considerando el siguiente
+orden de prioridad normativa:
+I. Indicación precisa del encuadre del proyecto, en el marco legal establecido por la Ley Nº
+22.351, y por otras Leyes Nacionales vinculadas a la temática del proyecto evaluado.
+II. Encuadre en el Plan de Gestión del AP y en la reglamentación vigente en la APN.
+III. Posible legislación y/o reglamentación Provincial y/o Municipal que pueda ser considerada a
+los fines del proyecto que se evalúa.
+4. Características Ambientales
+Descripción de las características ambientales del área (operativa y de influencia), como línea de base
+ambiental, incluyendo la siguiente información según corresponda:
+I. Medio físico: clima y meteorología, geología, geomorfología, suelos, topografía (patrones de
+drenaje, susceptibilidad de erosión, etc.), hidrografía (cuencas, caudales y principales
+parámetros de los cuerpos y cursos de agua involucrados, etc.). Calidad del aire y del agua,
+principales fuentes de contaminación.
+II. Medio biótico: ecosistemas, flora y vegetación (mapeo y descripción fisonómico estructural y
+florística), fauna (residente y migratoria), especies de valor especial (endémicas, raras,
+amenazadas, etc.), especies más abundantes dentro o en áreas adyacentes a los sitios de
+desarrollo del proyecto, dinámicas ecológicas (disturbios, especies invasoras), hábitats
+sensibles (sitios de nidificación, reproducción, etc.), corredores ecológicos (locales y
+regionales).
+III. Medio socio-cultural: Descripción y localización de los recursos culturales identificados (sitios
+arqueológicos, históricos, lugares sagrados entre otros). Descripción y análisis de la población
+humana residente y migratoria y/o transitoria en el área de afectación directa e indirecta,
+actividades y costumbres. Para el caso de proyectos de desarrollo turístico se deberá incluir
+un análisis particular de la actividad turística. Infraestructura y servicios.
+IV. Paisaje como expresión espacial y visual del medio, entendido como recurso natural y cultural.
+V. Gestión del AP: objetivos de conservación, zonificación y uso, plan y programas de manejo
+vinculados.
+VI. Otros proyectos que se llevan a cabo en el AP, que pueden afectar o verse afectados por el
+proyecto en evaluación. Análisis de posibles efectos sinérgicos.
+VII. Estado de conservación del sitio. Problemas ambientales y pasivos ambientales (degradaciones
+ambientales) preexistentes en el medio receptor y que se relacionen con el proyecto.
+Para la elaboración de la Línea de Base Ambiental se deberá utilizar información secundaria,
+complementada con datos primarios de campo. Se deberá incorporar cartografía temática a escala
+adecuada de cada uno de los temas que resultan relevantes para la caracterización del área y la
+evaluación de los impactos ambientales del proyecto.
+5. Impactos Ambientales del Proyecto
+Determinación de los impactos ambientales del proyecto identificando, describiendo y valorando
+todos los cambios ambientales significativos que el mismo provocará sobre el medio receptor,
+considerando:
+I. Impactos negativos y positivos; directos e indirectos; inmediatos, a mediano y largo plazo;
+temporales y permanentes; continuos y discontinuos en el tiempo; de incidencia local o
+regional. Deberán identificarse aquellos impactos derivados de eventos accidentales
+(contingencias) y aquellos impactos que son inevitables o irreversibles. Deberá identificarse y
+valorarse también los impactos acumulativos (superposición con otros proyectos o condiciones
+del medio receptor, etc.).
+II. Para la determinación de los impactos se analizarán las dimensiones física, biológica y
+socio-cultural (incluyendo las dimensiones estética y económica) del medio receptor,
+describiendo los mismos en forma cuantitativa o cualitativa según posibilidad y en términos
+de costos y beneficios ambientales.
+III. El análisis de impacto deberá diferenciarse según cada una de las etapas del proyecto
+(planificación, construcción, utilización operatoria, mantenimiento, cierre, remediación y
+abandono, u otra). Deberá caracterizarse la calidad de los datos disponibles y las incertidumbres
+asociadas a la predicción de algunos impactos.
+La descripción de los impactos deberá realizarse utilizando matrices, esquemas, gráficos y cartografía
+a escala adecuada que permita vincular la sensibilidad del medio con el proyecto y sus impactos
+ambientales.
+6. Medidas de Mitigación
+Identificación de medidas de mitigación, proponiendo las medidas efectivas para prevenir, reducir
+eliminar los impactos negativos del proyecto. Con base en el análisis de los impactos ambientales,
+estas medidas podrán implicar, entre otras:
+I. La minimización de los impactos negativos a través de emplear las medidas de prevención
+adecuadas para cada etapa
+II. La reparación, rehabilitación o restauración del ambiente afectado
+III. Ajustes al diseño o relocalización del proyecto o alguno de sus componentes o actividades
+IV. La reducción o eliminación del impacto a través del tiempo por operaciones de recuperación
+durante la vida útil del proyecto
+V. La compensación del impacto producido por el reemplazo o sustitución de los recursos
+afectados, en la medida que quede acreditada la imposibilidad de la prevención o reducción
+de un impacto.
+Las medidas de mitigación deberán considerar también la promoción o potenciación de los impactos
+positivos que se deriven del proyecto.
+Sólo en la medida que quede acreditada la imposibilidad de la prevención o reducción de un impacto,
+podrá proponerse su compensación por el reemplazo o sustitución de los recursos afectados. Su
+aceptación o no queda a exclusivo criterio de la APN, pudiendo ser causal de rechazo de un proyecto.
+7. Plan de Gestión Ambiental (PGA) y Plan de Monitoreo
+a) Plan de Gestión Ambiental (PGA) que incluya Programas de trabajo en función de todas las
+Medidas de Mitigación propuestas, entre otros:
+I. Manejo ambiental según las distintas instalaciones o acciones del proyecto (obrador, equipos y
+maquinarias, materiales e insumos, gestión de residuos y efluentes, etc.).
+II. Protección de componentes ambientales (natural, cultural y social).
+III. Medidas de compensación.
+IV. Prevención y respuesta a contingencias.
+V. Identificación de impactos no anticipados o cambios en la tendencia esperada.
+VI. Comunicación y participación social.
+VII. Capacitación y educación ambiental.
+VIII. Seguimiento del cumplimiento y resultados de las medidas de mitigación y de la aplicación del
+PGA.
+IX. Alcance temporal del PGA y propuesta de actualización.
+Todas las medidas deberán presentarse en anexos, en forma de fichas sintéticas individuales que
+permitan una rápida lectura de lo propuesto y faciliten la fiscalización de las obras y del
+funcionamiento posterior de la instalación o desarrollo de las actividades. En las fichas deberá
+incluirse la descripción y finalidad de la medida propuesta, su ubicación espacial, temporal y
+duración e indicarse el responsable de su cumplimiento.
+b) Plan de Monitoreo detallado para el control de los impactos del proyecto y de la implementación y
+resultados de las medidas de mitigación, en forma previa a la ejecución del proyecto, durante su
+ejecución y al momento del cierre o abandono, destinado a:
+I. Informar sobre impactos producidos por una acción determinada.
+II. Advertir sobre impactos no anticipados en los análisis previos, o sobre cambios en las
+tendencias esperadas.
+III. Informar cuando un indicador de impacto se acerca a un nivel crítico.
+IV. Informar sobre la efectividad de las medidas de mitigación.
+Deberán incluirse indicadores cuantitativos para ser monitoreados durante la ejecución del proyecto,
+presentándose un primer resultado a modo de Línea de Base de estos indicadores propuestos previo a
+la ejecución.
+c) El PGA y el Plan de Monitoreo deberán incluir: cronograma, presupuesto (que se deberá
+incorporar al costo global del proyecto), procedimientos y técnicas, personal necesario para su
+implementación.
+d) El PGA y el Plan de Monitoreo deberán presentarse como un documento separado del cuerpo
+principal del EsIA, para facilitar su fiscalización y control en las APs.
+CAPÍTULO 5. INFORME DE IMPACTO AMBIENTAL (IIA)
+Procedimiento
+Artículo 47°. El IIA es un estudio técnico a ser presentado por el proponente de un Proyecto que
+puede tener o tiene una incidencia media en el ambiente, y que sea clasificado como tal por la
+APN.
+Artículo 48°. El proponente deberá presentar ante la Intendencia del AP o la DR, el correspondiente
+IIA del Proyecto, el cual será analizado por la Intendencia, quien podrá formalmente solicitar al
+proponente correcciones al estudio presentado por considerarlo incompleto o insuficiente, o requerir
+modificaciones al proyecto para acondicionarlo de modo tal que se minimicen los impactos.
+Artículo 49°. Cumplida la intervención de la Intendencia, el IIA será analizado por la DR respectiva,
+que realizará la evaluación técnica, la cual podrá recurrir a la consulta de expertos externos de
+probada experiencia en la materia a evaluar. Los honorarios profesionales se determinarán conforme
+lo indicado en el Artículo 15, inciso I) del presente Reglamento.
+Artículo 50°. En caso de que la información consignada en el IIA se considere inválida o
+insuficiente, la DR requerirá al proponente que efectúe en un plazo de QUINCE (15) días hábiles las
+correcciones o ampliaciones pertinentes. Vencidos los plazos, se procederá a la evaluación
+atendiendo a la documentación presentada. Asimismo, podrá solicitar modificaciones al Proyecto
+para acondicionarlo de modo tal que se minimicen los impactos.
+Artículo 51°. La APN podrá requerir una instancia de participación pública, cuya modalidad será
+definida en atención a cada caso en particular.
+Artículo 52°. Finalizado el proceso de evaluación técnica, la DR aprobará o desaprobará el IIA
+mediante acto dispositivo, estableciendo las condiciones para la autorización del proyecto o, en su
+caso, fundamentando su rechazo. En el caso que el IIA se apruebe, deberán remitirse las
+actuaciones a quien corresponda para la continuación del trámite de autorización o habilitación del
+Proyecto, de acuerdo con lo indicado en el Artículo 9º del presente Reglamento.
+Contenidos del IIA
+Artículo 53°. El IIA deberá referirse, entre otros, a los aspectos que se citan a continuación:
+1. Descripción del Proyecto
+Descripción detallada del proyecto, incluyendo como mínimo la siguiente información:
+I. Localización
+II. Objetivos y justificación
+III. Destinatarios/usuarios
+IV. Beneficiarios directos e indirectos
+V. Costo estimado y cronograma de inversión
+VI. Cronograma
+VII. Memoria descriptiva para cada etapa del Proyecto:
+- croquis generales de ubicación, planos de obra, descripción de detalles operativos de cada
+etapa. Para el caso de servicios públicos, si correspondiere deberá presentarse aprobación o
+conformidad de la autoridad (nacional o provincial) competente en la materia que se trate.
+- delimitación del área operativa y de influencia
+- superficie a afectar (directa e indirecta)
+- diseño y características
+- actividades a desarrollar
+- tecnología a emplear
+- insumos/recursos a utilizar en forma directa o indirecta (energía, suelo, agua, biota, etc.)
+- generación de residuos según tipología
+- personal involucrado
+VIII. Planimetría general y ubicación del proyecto.
+2. Análisis de alternativas del proyecto
+Deberá incluir un análisis de alternativas de las acciones con efectos ambientales negativos menos
+tolerables, en el cual deberá explorarse y evaluarse objetivamente las alternativas más razonables y
+detallar aquellas que fueron descartadas y sus razones.
+3. Encuadre legal y reglamentario
+El análisis de los aspectos legales y reglamentarios deberá realizarse considerando el siguiente orden
+de prioridad normativa:
+I. Indicación precisa del encuadre del proyecto, en el marco legal establecido por la Ley Nº
+22.351, y por otras Leyes Nacionales vinculadas a la temática del proyecto evaluado.
+II. Encuadre en el Plan de Gestión del AP y en la reglamentación vigente en la APN.
+III. Posible legislación y/o reglamentación Provincial y/o Municipal que pueda ser útil considerar
+a los fines del proyecto que se evalúa.
+4. Características Ambientales
+Descripción de las características ambientales del área (operativa y de influencia), como línea de base
+ambiental:
+I. Medio físico y biótico: caracterización general, descripción particularizada de aquellos
+componentes o aspectos del medio físico o biótico que puedan verse vinculados o afectados
+directa o indirectamente por el Proyecto, que presenten algún valor especial o se consideren
+críticos.
+II. Medio socio-cultural: localización de sitios arqueológicos, edificaciones históricas, sitios
+sagrados entre otros. Población actual del área: situación demográfica y socio-económica,
+actividades y usos del suelo, tenencia de la tierra, pueblos originarios, costumbres de la
+población, condiciones de vida, infraestructura y servicios existentes. Descripción particularizada
+de aquellos componentes o aspectos del medio socio-cultural que puedan verse vinculados o
+afectados directa o indirectamente por el Proyecto, que presenten algún valor especial o se
+consideren críticos.
+III. Paisaje como expresión espacial y visual del medio, entendido como recurso natural y cultural.
+IV. Gestión del AP: objetivos de conservación, zonificación y uso, plan y programas de manejo.
+V. Estado de conservación del área. Problemas ambientales y pasivos ambientales (degradaciones
+ambientales) preexistentes en el medio receptor y que se relacionen con el proyecto.
+Para la elaboración de esta Línea de Base ambiental se deberá utilizar información secundaria,
+complementada con datos primarios de campo cuando resulte oportuno. Se deberá incorporar
+cartografía temática a escala adecuada de cada uno de los temas que resultan relevantes para la
+caracterización del área y la evaluación de los impactos ambientales.
+5. Impactos ambientales
+Determinación de los impactos ambientales del proyecto identificando, describiendo y valorando
+todos los cambios ambientales significativos que el proyecto provocará sobre el medio receptor.
+Deberán considerarse los impactos negativos y positivos, la extensión e intensidad de los mismos, su
+grado de reversibilidad, temporalidad y continuidad. Deberá identificarse y valorarse también los
+impactos acumulativos (superposición con otros proyectos o condiciones del medio receptor, etc.).
+La descripción de los impactos deberá realizarse utilizando matrices, esquemas, gráficos y
+cartografía a escala adecuada que permita vincular la sensibilidad del medio con el proyecto y sus
+impactos ambientales.
+6. Medidas de Mitigación
+Identificación de las medidas de mitigación, proponiendo las medidas efectivas para prevenir, reducir
+o corregir los impactos negativos.
+Sólo en la medida que quede acreditada la imposibilidad de la prevención o reducción de un impacto,
+podrá proponerse su compensación por el reemplazo o sustitución de los recursos afectados. Su
+aceptación o no queda a exclusivo criterio de la APN, pudiendo ser causal de rechazo de un proyecto.
+7. Plan de Gestión Ambiental (PGA)
+Desarrollo de un Plan de Gestión Ambiental (PGA) en función de las principales medidas de
+mitigación propuestas que incluya entre otros:
+I. relaciones institucionales, aprobaciones, permisos y/o habilitaciones
+II. comunicación y participación social
+III. capacitación ambiental
+IV. manejo ambiental según las distintas instalaciones o acciones del Proyecto
+V. protección de componentes ambientales (natural, social y cultural)
+VI. monitoreo de componentes ambientales, en forma previa a la ejecución del Proyecto, durante
+su ejecución, y al momento del cierre o abandono
+VII. medidas de compensación
+VIII. prevención y respuesta a contingencias
+IX. identificación de impactos no anticipados o cambios en la tendencia esperada
+X. seguimiento del cumplimiento y resultados de las medidas de mitigación y de la aplicación
+del PGA
+XI. actualización del PGA
+El Plan deberá incluir: cronograma, presupuesto (que se deberá incorporar al costo global del
+proyecto) procedimientos y técnicas, personal necesario para su implementación.
+CAPÍTULO 6. INFORME MEDIOAMBIENTAL (IMA)
+Procedimiento
+Artículo 54°. El IMA es un estudio técnico a ser presentado por el proponente de Proyectos
+menores que pueden tener o tienen una incidencia media y baja en el ambiente, y que sea
+clasificado como tal por la APN.
+Artículo 55°. El proponente deberá presentar el correspondiente IMA del Proyecto ante la
+Intendencia del AP, quien tomará intervención realizando un análisis preliminar de la propuesta.
+Artículo 56°. Cumplida la intervención de la Intendencia, se remitirán las actuaciones a la DR para
+su evaluación técnica. Si el proyecto propiciado fuera externo a la APN e involucra a una AP de Alta
+Complejidad será ésta quien realice la evaluación técnica.
+Artículo 57°. En el caso que la información consignada en el IMA se considere inválida o
+insuficiente la APN podrá solicitar al proponente que efectúe, en un plazo de QUINCE (15) días
+hábiles (prorrogable por excepción), las correcciones o ampliaciones solicitadas. Vencidos los
+plazos estipulados, se evaluará atendiendo a la documentación presentada, pudiendo solicitarse
+modificaciones al proyecto para acondicionarlo de modo tal que se minimicen los impactos.
+Artículo 58°. Como resultado del proceso de evaluación técnica, la DR o Intendencia de Alta
+Complejidad, de acuerdo a lo establecido en el Artículo 56°, emitirá un acto dispositivo en
+relación a la aprobación o desaprobación del IMA y establecerá las condiciones para la
+autorización del proyecto o en su caso fundamentando su rechazo. En caso que el IMA se apruebe, deberán remitirse las actuaciones a quien corresponda para la continuación del trámite de
+autorización o habilitación del proyecto, de acuerdo con el Artículo 8º del presente Reglamento.
+Contenidos del IMA
+Artículo 59°. El IMA deberá referirse, entre otros, a los aspectos que se citan a continuación:
+1. Descripción del Proyecto
+Descripción detallada incluyendo como mínimo la siguiente información:
+I. Localización
+II. Objetivos y justificación
+III. Destinatarios/usuarios
+IV. Beneficiarios directos e indirectos
+V. Costo estimado
+VI. Cronograma
+VII. Memoria descriptiva para cada etapa:
+- ubicación
+- superficie a afectar (directa e indirecta)
+- diseño y características
+- actividades a desarrollar
+- tecnología a emplear
+- insumos/recursos a utilizar en forma directa o indirecta (energía, suelo, agua, biota, etc.)
+- generación de residuos según tipología
+- personal involucrado
+VIII. Planimetría general y ubicación de la obra.
+2. Encuadre legal y reglamentario
+El análisis de los aspectos legales y reglamentarios deberá realizarse considerando el siguiente orden
+de prioridad normativa:
+I. Indicación precisa del encuadre del proyecto, en el marco legal establecido por la Ley Nº 22.351,
+y por otras Leyes Nacionales vinculadas a la temática del proyecto evaluado.
+II. Encuadre en el Plan de Gestión del AP y en la reglamentación vigente en la APN.
+3. Descripción del sitio
+Breve descripción de las características ambientales del área donde se efectuará el proyecto,
+incluyendo aquellos componentes o aspectos del medio físico, biótico o socio-cultural que puedan
+verse vinculados o afectados directa o indirectamente, que presenten algún valor especial o se
+consideren críticos.
+Para la elaboración de esta descripción se deberá utilizar información secundaria, complementada con
+datos primarios de campo cuando resulte oportuno. Se deberá incorporar cartografía temática a escala
+adecuada.
+4. Impactos ambientales
+Determinación de los impactos del proyecto identificando los principales impactos positivos y
+negativos y los componentes o variables ambientales afectadas.
+5. Medidas de Mitigación
+Identificación de medidas de mitigación, proponiendo las medidas efectivas para prevenir, reducir o
+corregir los impactos negativos del proyecto. Cuando resulte oportuno se podrá requerir la
+presentación de un Plan de Gestión Ambiental (PGA) que incluya programas específicos en función
+de los aspectos más sensibles del proyecto (cómo mínimo se deberá presentar un Programa de
+prevención y respuesta a contingencias, detección de impactos no anticipados o cambios en las
+tendencias esperadas y de monitoreo y seguimiento del cumplimiento y resultado de las medidas de
+mitigación).
+Sólo en la medida que quede acreditada la imposibilidad de la prevención o reducción de un impacto,
+podrá proponerse su compensación por el reemplazo o sustitución de los recursos afectados. Su
+aceptación o no queda a exclusivo criterio de la APN, pudiendo ser causal de rechazo de un proyecto.
+CAPÍTULO 7. SUPERVISIÓN AMBIENTAL
+Artículo 60°. La Supervisión Ambiental incluye el control, seguimiento y vigilancia del
+cumplimiento de las condiciones establecidas en el Plan de Gestión Ambiental de los estudios o
+informes ambientales y de los recaudos y condiciones fijadas por la APN en los actos administrativos
+de aprobación de los mismos. En el Anexo VII del presente Reglamento se incluye una guía que
+establece el procedimiento y los contenidos mínimos para llevar a cabo la supervisión ambiental.
+Artículo 61°. En el caso de los EsIA, la Supervisión Ambiental será responsabilidad primaria de
+la DR, con asistencia de la Intendencia correspondiente, sin perjuicio de la responsabilidad que le
+compete a la Intendencia respecto al control y fiscalización de cualquier actividad que se realice
+en su jurisdicción. La DR, en conjunto con la Intendencia, deberán elevar informes periódicos a la
+DNC. La periodicidad será definida por el Directorio de la APN en el acto resolutivo de
+aprobación del EsIA.
+Artículo 62°. En el caso de los IIA, IMA, los Proyectos exentos de IMA y los Tipo 4, la
+supervisión ambiental será responsabilidad primaria de la Intendencia respectiva, la que podrá
+solicitar la asistencia de la DR correspondiente. La Intendencia deberá elevar informes periódicos
+a la DR, cuya periodicidad será definida en el acto dispositivo de aprobación del informe
+ambiental o exención de dicha obligación.
+Artículo 63°. Sin perjuicio de la responsabilidad primaria que se establece en el Artículo precedente,
+la DR correspondiente podrá realizar la Supervisión Ambiental del Proyecto cuando lo estime
+pertinente.
+Artículo 64°. Los recaudos y condiciones que se establezcan como consecuencia de los hallazgos
+producidos durante la Supervisión Ambiental de los Proyectos en ejecución serán de carácter
+obligatorio para los responsables de los mismos. A tal fin el Informe de la Supervisión Ambiental,
+será comunicado al proponente del proyecto.
+CAPÍTULO 8. DIAGNÓSTICO AMBIENTAL (DA)
+Artículo 65°. El objetivo del Diagnóstico Ambiental (DA) es la identificación y análisis de los
+impactos ambientales que una actividad preexistente produce en el entorno, así como la definición
+de posibles medidas correctoras, precautorias y compensatorias que pudieran ser necesarias. En el
+Anexo VIII del presente Reglamento se incluye una guía para la elaboración de un Diagnóstico
+Ambiental.
+Artículo 66°. En los casos que se considere necesario o conveniente, la Intendencia y/o la DR
+podrá realizar por cuenta propia o solicitar al responsable del proyecto un DA de proyectos
+preexistentes a la puesta en vigencia del presente Reglamento y podrá solicitar la presentación de
+un Plan de Gestión Ambiental (PGA), nuevos estudios ambientales, o medidas de mitigación o
+remediación cuando se estime pertinente.
+Artículo 67°. En los casos de prórrogas de concesiones o permisos, y cuando el tipo de actividad
+lo amerite, deberá realizarse un DA del emprendimiento, pudiendo ser elaborado por cuenta propia
+de la Intendencia y/o la DR o solicitarse al Concesionario y/o Permisionario bajo Términos de
+Referencia (TdR) particulares en base a los cuales deberá efectuarse dicho diagnóstico.
+Artículo 68°. Los gastos que conlleven la realización del DA, en los casos alcanzados por los
+Artículos 66° y 67°, correrán por cuenta del responsable del Proyecto, salvo que la APN considere
+absorber dichos gastos por cuenta propia.
+Artículo 69°. La DR o la Intendencia podrán realizar un DA de sitios particulares y/o de DOS (2)
+o más proyectos con el objetivo de determinar posibles sinergias ambientales negativas y definir
+medidas correctoras.
+Artículo 70°. Los recaudos y condiciones que se establezcan como consecuencia de los hallazgos
+producidos durante el DA serán de cumplimiento obligatorio por parte del responsable del proyecto
+para la continuidad del mismo.
+Artículo 71°. Cuando el DA sea elaborado por externos, éste será evaluado por la DR o la
+Intendencia de Alta complejidad, quien se expedirá sobre la aprobación del mismo a través de acto dispositivo, pudiendo establecer recaudos, condiciones y plazos. Cuando el DA sea realizado por
+la APN deberá ser notificado al responsable del proyecto sobre los hallazgos, recomendaciones,
+condiciones y plazos. Los actos administrativos emitidos, deberán ser remitidos de acuerdo con lo
+estipulado en el Artículo 17° del presente Reglamento.
+
+Artículo 72°. Las infracciones a lo establecido en el presente Reglamento serán sancionadas por
+la APN en el marco de lo establecido por la Ley Nº 22.351, el Decreto N° 300/2022 y/o toda
+aquella normativa que lo complemente y/o modifique junto con lo dispuesto en este título.
+Las sanciones a aplicar son las siguientes: Apercibimiento; Multa; Inhabilitación (de 1 a 5 años);
+Suspensión transitoria del proyecto (hasta 90 días); Suspensión definitiva del proyecto; Secuestro
+(medida precautoria); Decomiso (accesoria o no a la multa).
+Las penas deberán ser graduadas según las circunstancias de la infracción, su naturaleza y
+gravedad, los antecedentes del infractor y cualquier otro elemento de juicio que contribuya a
+determinar la responsabilidad del mismo.
+Artículo 73°. Se considerarán infracciones pasibles de ser sancionadas las siguientes conductas:
+I. Incumplimiento de las condiciones impuestas al proponente para la ejecución del proyecto
+II. Incumplimiento de los recaudos y condiciones establecidas en los actos administrativos
+respecto a procesos de evaluación de impacto ambiental, y en los estudios o informes
+ambientales.
+III. Ocultación, falsedad o manipulación de los datos consignados en la documentación
+presentada por el proponente del Proyecto.
+IV. Incumplimiento a los deberes y obligaciones establecidas en el presente Reglamento.
+Artículo 74°. La APN podrá disponer la suspensión de un Proyecto en ejecución en los siguientes
+casos:
+I. Inicio de la ejecución del Proyecto sin haber cumplimentado en su totalidad los requisitos
+establecidos en la presente reglamentación.
+II. Incumplimiento de las condiciones impuestas al proponente para la ejecución del Proyecto.
+III. Ocultación de datos, su falseamiento o manipulación durante el proceso.
+IV. Cuando, a pesar de haberse observado todos los requisitos exigidos en la presente
+reglamentación para la autorización de la ejecución del Proyecto, se produjeran impactos
+imprevistos cuya magnitud así lo requiera.
+Artículo 75°. El proponente será responsable de daño ambiental que pudiere ocasionarse, ya
+fuere por acción u omisión, durante el desarrollo del proyecto. Será de aplicación lo establecido en
+la Resolución Nº 320/2023 del Directorio o aquella que reemplace o modifique.
+Artículo 76°. La APN podrá aplicar como sanción accesoria a la multa la inhabilitación a los
+responsables o titulares de los proyectos para realizar cualquier actividad sujeta a autorización de la
+APN; y/o a los profesionales intervinientes para actuar como tales ante esta Administración.
+Artículo 77°. La APN determinará la graduación de la sanción de inhabilitación, de UNO (1) a
+CINCO (5) años, de acuerdo a la gravedad de la infracción cometida. Dicha inhabilitación será
+publicada en un diario de la Ciudad Autónoma de Buenos Aires y en el de mayor circulación de la
+provincia correspondiente al área protegida sujeta al emprendimiento. Asimismo, serán notificados
+los correspondientes Colegios de Profesionales, y el Ministerio de Ambiente y Desarrollo Sostenible
+de la Nación, cuando se tratare de empresas consultoras o profesionales inscriptos en el Registro
+Nacional de Consultores en Evaluación Ambiental.
+
+

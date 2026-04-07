@@ -1,4 +1,6 @@
 import os
+import time
+import re
 import sys
 import warnings
 import logging
@@ -39,20 +41,18 @@ from langchain_core.prompts import PromptTemplate
 
 
 persist_directory = "./data_db"
-
 # ------------------------------------------------------------
 # CARGAR EL MODELO DE EMBEDDINGS
 # ------------------------------------------------------------
 # Se carga siempre, tanto para crear la DBV como para consultar.
 
-print("\n Loading embedding model...")
+print("\n Cargando modelo de embeddings...")
 
 embeddings = HuggingFaceEmbeddings(
     model_name="all-mpnet-base-v2"
 )
 
-print("[INFO] Embedding model loaded successfully")
-print("[INFO] Model: all-mpnet-base-v2")
+print("[INFO] Modelo de embeddings cargado correctamente")
 
 
 # ------------------------------------------------------------
@@ -73,17 +73,35 @@ if os.path.exists(persist_directory):
         embedding_function=embeddings,
     )
 
-    print("[OK]   Vector database cargada correctamente")
+    print("[OK]   Base de datos vectorial cargada correctamente")
     print(f"[OK]   Ubicación: {persist_directory}")
 
 else:
-    # ── Carga, división e indexación ───────
+    # ── Selección de configuración de chunks ───────
+    CHUNK_CONFIGS = {
+        "1": {"chunk_size": 1000, "chunk_overlap": 300},
+        "2": {"chunk_size": 300,  "chunk_overlap": 100},
+        "3": {"chunk_size": 500,  "chunk_overlap": 500},
+    }
+
     print(f"\n{'─'*60}")
     print("[AVISO] No se encontró data_db. Construyendo desde cero...")
     print(f"{'─'*60}")
+    print("\n Seleccione la configuración de chunking:")
+    print("  [1] chunk_size=1000, chunk_overlap=300  (default)")
+    print("  [2] chunk_size=300,  chunk_overlap=100")
+    print("  [3] chunk_size=500,  chunk_overlap=500")
 
-    # PASO 1 — Cargar archivos
-    print("\n[PASO 1] Cargando archivos desde la carpeta 'data'...")
+    choice = input("\n Ingrese opción (1/2/3) [1]: ").strip()
+    if choice not in CHUNK_CONFIGS:
+        choice = "1"
+
+    selected = CHUNK_CONFIGS[choice]
+    print(f"\n[INFO] Configuración seleccionada (opción {choice}): "
+          f"chunk_size={selected['chunk_size']}, chunk_overlap={selected['chunk_overlap']}")
+
+    # Cargar archivos
+    print("\n Cargando archivos desde la carpeta 'data'...")
 
     data_dir = "data"
     raw_documents = []
@@ -120,21 +138,20 @@ else:
 
     print(f"[INFO] Total de documentos crudos cargados: {len(raw_documents)}")
 
-    # PASO 2 — Dividir en fragmentos (chunks)
-    print("\n[PASO 2] Dividiendo documentos en fragmentos (chunks)...")
+    # Dividir en fragmentos (chunks)
+    print("\n Dividiendo documentos en fragmentos (chunks)...")
 
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800,
-        chunk_overlap=150
+        chunk_size=selected["chunk_size"],
+        chunk_overlap=selected["chunk_overlap"],
     )
 
     documents = text_splitter.split_documents(raw_documents)
 
     print(f"[INFO] Fragmentos (chunks) generados: {len(documents)}")
-    print(f"[INFO] Tamaño de chunk: 800 chars | Overlap: 150 chars")
 
-    # PASO 4 — Crear y persistir la base vectorial
-    print("\n[PASO 4] Creando la base vectorial en disco...")
+    # Crear y persistir la base vectorial
+    print("\n Creando la base vectorial en disco...")
     print(f"[INFO] Destino: {persist_directory}")
 
     vectorstore = Chroma.from_documents(
@@ -144,11 +161,7 @@ else:
     )
 
     print("[OK]   Base vectorial creada y guardada en disco")
-    print(f"[OK]   Ubicación: {persist_directory}")
-    print(f"[OK]   Total de chunks indexados: {len(documents)}")
     print(f"{'─'*60}")
-
-
 
 # ------------------------------------------------------------
 # 5. CONSULTA DEL USUARIO
@@ -156,12 +169,13 @@ else:
 # Esta consulta será convertida en embedding y se usará para
 # buscar documentos similares en la base vectorial.
 
-print("\n[PASO 5] Processing user query...")
-
-query = input("Ingresá tu pregunta: ")
-
-print(f"[QUERY] {query}")
-
+while True:
+    query = input("\n Ingrese su consulta: ")
+    # Sanitizar: eliminar caracteres de control y espacios en blanco extremos
+    query = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', query).strip()
+    if query:
+        break
+    print("  [ERROR] La consulta no puede estar vacía. Intente nuevamente.")
 
 # ------------------------------------------------------------
 # 6. BÚSQUEDA VECTORIAL
@@ -169,12 +183,12 @@ print(f"[QUERY] {query}")
 # Se calcula el embedding de la consulta y se buscan
 # los documentos más cercanos en el espacio vectorial.
 
-print("\n[PASO 6] Performing vector similarity search...")
+print("\n Realizando búsqueda por similitud vectorial...")
 
 results = vectorstore.similarity_search_with_score(query, k=20)
 
-print("[INFO] Similarity search completed")
-print(f"[INFO] Retrieved documents: {len(results)}")
+print("[INFO] Búsqueda por similitud completada")
+print(f"[INFO] Documentos recuperados: {len(results)}")
 
 
 # ------------------------------------------------------------
@@ -183,7 +197,7 @@ print(f"[INFO] Retrieved documents: {len(results)}")
 # Se ordenan los resultados por score (distancia L2 ascendente),
 # se deduplicán y se muestran los 5 mejores.
 
-TOP_K = 5
+TOP_K = 10
 
 # Ordenar por score ascendente: menor distancia = mayor similitud
 results_sorted = sorted(results, key=lambda x: x[1])
@@ -201,7 +215,7 @@ for doc, score in results_sorted:
 
 print(f"\n{'='*70}")
 print(f"  TOP {TOP_K} RESULTADOS ")
-print(f"  Query: \"{query}\"")
+print(f"  Consulta: \"{query}\"")
 print(f"  Resultados únicos encontrados: {len(unique_results)}")
 print(f"{'='*70}\n")
 
@@ -214,9 +228,9 @@ for i, (doc, score) in enumerate(unique_results, 1):
     stars = max(1, 5 - round(score * 2))
     stars_str = "★" * stars + "☆" * (5 - stars)
 
-    print(f"  #{i}  [{stars_str}]  Distancia: {score:.4f}  {'← mejor resultado' if i == 1 else ''}")
-    print(f"  Fuente: {os.path.basename(source)}{page_info}")
-    print(f"  {'-'*66}")
+    print(f"#{i}  [{stars_str}]  Distancia: {score:.4f}  {'← mejor resultado' if i == 1 else ''}")
+    print(f"Fuente: {os.path.basename(source)}{page_info}")
+    print(f"{'-'*66}")
     text = doc.page_content.strip()
     if len(text) > 700:
         text = text[:700] + " ... [truncado]"
@@ -232,9 +246,7 @@ print(f"{'='*70}")
 # Se utiliza el modelo Qwen2.5-0.5B para generar una respuesta
 # de forma rápida y con muy poco consumo de recursos.
 
-print("\n[PASO 8] Loading Qwen2.5-0.5B-Instruct...")
-
-model_id = "Qwen/Qwen2.5-0.5B-Instruct"
+model_id = "Qwen/Qwen2.5-1.5B-Instruct"
 
 # Cargar el tokenizador y el modelo
 tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -250,21 +262,15 @@ pipe = pipeline(
     model=model,
     tokenizer=tokenizer,
     max_new_tokens=512,
-    temperature=0.2,
+    temperature=0.7,
     do_sample=True,
     return_full_text=False
 )
 
-# Preparar el contexto combinando los fragmentos encontrados 
-TOP_CONTEXT = 5
+# Preparar el contexto combinando los fragmentos encontrados
+context_text = "\n\n".join([doc.page_content for doc, score in unique_results])
 
-context_text = "\n\n".join([
-    f"Fuente {i+1}:\n{doc.page_content.strip()}"
-    for i, (doc, score) in enumerate(unique_results[:TOP_CONTEXT])
-])
-
-# Estructurar la conversación para el modelo 
-#TODO - aca hay que modificar o mejorar 
+# Estructurar la conversación para el modelo
 messages = [
     {
         "role": "system",
@@ -320,7 +326,10 @@ final_prompt = tokenizer.apply_chat_template(
 )
 
 # Generar la respuesta (sin incluir el prompt en el resultado)
+llm_start = time.time()
 output = pipe(final_prompt)
+llm_end = time.time()
+llm_elapsed = llm_end - llm_start
 response = output[0]['generated_text'].strip()
 
 
@@ -329,10 +338,9 @@ response = response.replace("<|im_end|>", "").replace("<|endoftext|>", "").strip
 print(f"\n{'='*70}")
 print("  RESULTADO DEL LLM ")
 print(f"{'='*70}")
-print(f"  PREGUNTA: {query}")
-print(f"  {'-'*66}")
-print(f"  RESPUESTA:")
-print(f"  {response}")
+print(f"PREGUNTA: {query}")
+print(f"{'-'*66}")
+print(f"RESPUESTA:")
+print(f"{response}")
 print(f"{'='*70}")
-
-
+print(f"\n⏱  Tiempo de respuesta del LLM: {int(llm_elapsed/60)} minutos")
