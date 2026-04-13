@@ -1,0 +1,320 @@
+PROGRAMA ACADEMICO / ETAPA I-II CBO/SIM 
+
+materia:  "CAB 1 / TODOS LOS CBO", "horas": "01:00", "pagina": 6,
+materia:  "MYE 1-16 / TODOS LOS CBO / PSIM", "horas": "14:00", "pagina": 8,
+materia": "OPA 1-7 / TODOS LOS CBO / PSIM", "horas": "06:30", "pagina": 9,
+materia": "CRM 1-5 / TODOS LOS CBO", "horas": "04:30", "pagina": 10,
+materia": "MET 1-3 / TODOS LOS CBO", "horas": "01:30", "pagina": 11,
+materia": "NAV 1-2 / CBO A, B Y C", "horas": "01:20", "pagina": 12,
+materia": "TVPI 01-04 / CBO A, B Y C", "horas": "02:00", "pagina": 13,
+materia": "TAE 1-3 / CBO A, B Y C", "horas": "01:30", "pagina": 14
+
+ETAPA III
+
+materia: "VFC 1-4 / ETAPA III-R", "horas": "03:00", "pagina": 15,
+materia: "EYRF 1-2 / ETAPA III-R", "horas": "02:00", "pagina": 16,
+materia: "EYRE 1-2 / ETAPA III-R", "horas": "02:00", "pagina": 17,
+materia: "TAO 1-2 / ETAPA III-R", "horas": "02:00", "pagina": 18,
+materia: "PEC 1-3 / ETAPA III", "horas": "01:30", "pagina": 19,
+materia: "FIV 1-3 / PIL ETAPA III-CTE", "horas": "03:00", "pagina": 20
+
+
+REHABILITACION / CATTRI
+
+materia: "R.MYE 1-2 / ETAPA IV-2/3", (RECIENTE- PROLONGADO) CATTRI, "horas":"02:00","pagina": 21
+materia: "R.OPA 1-2 / ETAPA IV-2/3", (RECIENTE- PROLONGADO) CATTRI, "horas":"02:00","pagina": 22
+materia: "R.CRM 1-2 / CATTRI", "horas":"02:00","pagina": 23
+materia: "PROG. SIM – ESIM 1-5 / TRIP. COCKPIT LJ35A", "horas":"02:00","pagina": 24
+
+PROGRAMA DE VUELO ETAPA II (CBO)
+
+grupo:"CBO A",
+horas_total: "11:00",
+detalle: "10:45 / 26 s – 25:45",
+materias:
+codigo: "PIL", "rango": "1-5", "horas": "05:00", "pagina": "25-26",
+codigo: "INS", "rango": "1-3", "horas": "03:00", "pagina": 27,
+codigo: "NOC", "rango": "1-2", "horas": "02:00", "pagina": 28,
+codigo: "INSP BAS", "horas": "00:45", "pagina": 46, "aplica": "TODOS CBO",
+codigo: "NAV INS", "rango": "1-4", "horas": "04:00", "pagina": 29,
+codigo: "COPI", "rango": "1-4", "horas": "04:00", "pagina": 30,
+codigo: "VFC", "rango": "1-2", "etapa": "III-R", "horas": "02:00", "pagina": 47,
+codigo: "EYRF", "rango": "1-2", "etapa": "III-R", "horas": "02:00", "pagina": 48,
+codigo: "TAO", "rango": "1-3", "etapa": "III-R", "horas": "03:00", "pagina": 49
+
+grupo: "CBO B",
+horas_total: "10:00",
+detalle": "09:45",
+materias
+codigo: "PIL", "rango": "1-4", "horas": "04:00", "pagina": 31,
+codigo: "INS", "rango": "1-3", "horas": "03:00", "pagina": 32,
+codigo: "NOC", "rango": "1-2", "horas": "02:00", "pagina": 33,
+codigo: "NAV INS", "rango": "1-3", "horas": "03:00", "pagina": 34,
+codigo: "COPI", "rango": "1-4", "horas": "04:00", "pagina": 35
+
+grupo: "CBO C",
+horas_total": "10:00",
+detalle": "09:45",
+materias:
+codigo": "PIL", "rango": "1-4", "horas": "04:00", "pagina": 36,
+codigo": "INS", "rango": "1-3", "horas": "03:00", "pagina": 37,
+codigo": "NOC", "rango": "1-2", "horas": "02:00", "pagina": 38,
+codigo": "NAV INS", "rango": "1-2", "horas": "02:00", "pagina": 39,
+codigo": "COPI", "rango": "1-3", "horas": "03:00", "pagina": 40
+
+grupo: "CBO D",
+"horas_total": "06:00",
+"detalle": "06:45",
+materias:
+codigo": "PIL", "rango": "1-3", "horas": "03:00", "pagina": 41,
+codigo": "INS", "rango": "1-2", "horas": "02:00", "pagina": 42,
+codigo": "NOC", "rango": "1", "horas": "01:00", "pagina": 43,
+codigo": "NAV INS", "rango": "1", "horas": "01:00", "pagina": 44,
+codigo": "COPI", "rango": "1", "horas": "01:00", "pagina": 45
+
+
+ETAPA III (CURSO OPERATIVO)
+
+"grupo": "PEC",
+materias:
+codigo: "PEC", "rango": "1-2", "horas": "02:00", "pagina": 50},
+codigo: "CIV", "rango": "1-4", "etapa": "III-CTE", "horas": "03:30", "pagina": 51}
+ 
+grupo: "REHABILITACION PIL-INS",
+materias
+codigo: "REHAB",
+rango: "1-2",
+tipo: "INS",
+etapa: "IV-2/3",
+condicion: "RECIENTE",
+horas: "02:15",
+pagina: 52
+
+codigo: "REHAB",
+rango: "1-3",
+tipo: "INSP",
+etapa: "IV-2/3",
+condicion: "PROLONGADO",
+horas: "03:45",
+pagina: 53
+
+codigo: "REHAB NOC",
+        "etapa": "IV-3",
+        "condicion": "RECIENTE-PROLONGADO",
+        "horas": "01:30",
+        "pagina": 54
+
+codigo": "REHAB",
+        "subtipo": "EYRF/E",
+        "rango": "1-2",
+        "tipo": "INSP",
+        "etapa": "III NAC",
+        "horas": "02:00",
+        "pagina": 55
+      
+"codigo": "REHAB VFC",
+        "rango": "1",
+        "etapa": "III NAC",
+        "horas": "01:00",
+        "pagina": 56
+             
+"codigo": "REHAB TAO",
+        "rango": "1-2",
+        "etapa": "III NAC",
+        "horas": "01:30",
+        "pagina": 57
+
+"grupo": "INSP PARA CTE",
+materias: 
+"codigo": "ICTE",
+        "rango": "1-4",
+        "etapa": "III",
+        "horas": "03:45",
+        "pagina": 58
+
+"grupo": "INSP ANUAL",
+materias: [
+"codigo": "IAVU/IAVI",
+        "horas": "01:30",
+        "pagina": 59
+      
+"grupo": "PADIES",
+"materias": 
+
+"codigo": "ADT",
+        "rango": "1-8",
+        "etapa": "III",
+        "horas": "00:45",
+        "tipo": "T",
+        "pagina": "60-61"
+   
+"codigo": "ADT EYRF/E",
+        "rango": "1-2",
+        "etapa": "III AC",
+        "horas": null,
+        "pagina": 62
+     
+"codigo": "ADT VFC",
+        "rango": "1-6",
+        "etapa": "III AC",
+        "horas": "00:45",
+        "tipo": "T",
+        "pagina": 63
+      
+"codigo": "ADT TAO",
+        "rango": "1-2",
+        "etapa": "III AC",
+        "horas": null,
+        "pagina": 64
+    
+"codigo": "ADT PEC",
+        "rango": "1-2",
+        "etapa": "III",
+        "horas": "02:00",
+        "pagina": 65
+ 
+DIRECTIVA DE INSTRUCCIÓN DE UNIDADES AÉREAS (DIU CAA 1 24)
+
+DESHABILITACIONES (cap. I, pág. 9-39)
+RECIENTE (45-90 DÍAS)	PROLONGADO (91-365 DÍAS) SEMIPERMANENTE (+ 365 DÍAS)
+
+ETAPA IV-3/2 RECIENTE cumplirán: (cap. IV, pág. 4/5-16)
+-UNO (1) a CINCO (5) salidas de vuelo de instrucción. Se deberá realizar prácticas de pilotaje, instrumental y emergencias.
+-UNA (1) salida de inspección. El proceso mínimo de rehabilitación deberá consistir en DOS (2) salidas con un tiempo de vuelo mínimo total de 01:30hs.
+-En el caso de la aviación de transporte se podrá rehabilitar al piloto durante el cumplimiento de tareas operativas.
+-NOTA: se contempla la excepción para el caso de deshabilitaciones por no haber cumplido exigencias trimestrales, siempre y cuando se hayan cumplido las horas mínimas de referencia mensual en dos meses consecutivos o en el último mes del trimestre. El proceso de rehabilitación podrá efectuarse por medio de UNA (1) salida de vuelo con instructor debiendo estar visada la planilla de calificación por un inspector.
+
+
+ETAPA IV-3/2 PROLONGADO cumplirán: 
+-DOS (2) a CINCO (5) salidas de vuelo de instrucción.
+-UNA (1) salida de inspección. El proceso mínimo de rehabilitación deberá consistir en TRES (3) salidas con un tiempo de vuelo total de 02:15hs.
+-El piloto que perdiera su habilitación en DOS (2) trimestres consecutivos efectuara la rehabilitación estipulada para Etapa IV- PROLONGADO.
+
+Los Pilotos Etapa IV-2 y IV-3 que no hayan volado en los últimos 365 días (Etapa IV-2 y IV-3 SEMIPERMANENTE), deberán reiniciar su actividad mediante el CBO que corresponda.
+Recuperación de la categoría: cuando no se cuente con un inspector habilitado, se gestionará la rehabilitación a través de inspectores del mismo SArm de otra unidad. 
+Si esto no fuera posible, solicitará al CAA, auto-habilitación con el apoyo de un Piloto Asistente de Seguridad. (cap. I, pág. 11-39).
+Cumplimiento de las exigencias: Inspectores e Instructores se computarán las hs voladas de 01 y 02. Por cada una (1) hora de vuelo excedida en función 01, se podrá reducir una (1) de las hs exigidas en función 02, limitando a seis (6) hs trimestrales. Cte y 2do pil, se computarán las hs voladas de 01 y 03. Por cada una (1) hora de vuelo excedida en función 01, se podrá reducir una (1) de las hs exigidas en función 03, limitando a doce (12) hs trimestrales. (cap. I, pág. 13/14-39).
+Exigencias de vuelo nocturno: dos (2) salidas mensuales con dos (2) aterrizajes en función 01. Instructores podrán computar un aterrizaje desde la función 02, 03. Tiempo máximo entre salidas 45 días. (cap. I, pág. 15-39).
+Exigencias de Simulador de Vuelo: cumplimiento de las Misiones Subsidiarias análogas a la aviación civil – exigencia obligatoria anual para pilotos Etapa III. (cap. I, pág. 17/18-39).
+
+CALIFICACIÓN OPERATIVA (cap. I, pág. 20-39).
+NO CALIFICADO (NC) NO APTO PARA EL COMBATE (NAC) APTO PARA EL COMBATE (AC)
+
+PIL ETAPA I PIL ETAPA II CUMPLE CON CBO/CEP AC1 – NIVEL MINIMO
+
+PIL ETAPA IV-2 / IV-3 PIL ETAPA III NO CUMPLE LOS TEMAS AC2 – NIVEL NORMAL AC3 – NIVEL OPTIMO
+
+
+El Escuadrón Aéreo que no tenga la capacidad (trip. hab.) para cumplir alguna de las tareas, perderá su condición de operativo en esa tarea. Se informa de inmediato por mensaje o expediente al CAA. Asimismo, se informa una vez recuperadas.
+
+Curso Básico Operativo (CBO): La duración y contenido dependerá del SArm y de la experiencia anterior del piloto, no debiendo, exceder los 365 días de calendario corridos. Cada CBO contendrá 3 programas: Académico, Simulador y Vuelo. (cap. I, pág. 26-39).
+Curso de Estandarización Teórico para Tripulantes (CATTRI): (cap. I, pág. 27-39). El que debe realizar anual y obligatoriamente el personal tripulante para mantener la categoría alcanzada. Su objetivo es:
+1.Repasar y actualizar los conocimientos (operación del material y equipos a bordo).
+2.Actualizar los procedimientos normales y de emergencia.
+3.Realizar discusiones en grupo que permitan compartir experiencias, aciertos y errores.
+
+Curso Académico Complementario (CAC): Para casos especiales, donde tripulantes pilotos de una especialidad avanzada sean designados para volar un SArm de otra especialidad avanzada. (cap. I, pág. 27/28-39).  
+Requisitos generales para el cumplimiento de cualquier actividad de vuelo:(cap. II, pág. 1-15).  
+1.Poseer la Aptitud Psicofísica Clase I.
+2.Revistar en la unidad o ser designado como adscripto al SArm.
+3.Deseable: poseer la lic. Habilitante expedida por la DGSOAM.
+
+INSTRUCCIÓN: (cap. II, pág. 6-15).  
+
+-Habilitación como Etapa II, (inicia actividad de vuelo). 
+-Habilitación para desempeñarse como 2do Pil. Al aprobar la inspección en vuelo.
+-Habilitación del 2do Pil. a realizar tareas operativas.
+-Al finalizar el CBO/CEP, la obtención de: 
+•Categoría: ETAPA III
+•Calificación: Apto para el Combate 1 (AC1)
+•Cargo a bordo: 2do Piloto
+Cuando existan circunstancias particulares que no permitan la finalización del CBO, se evaluará la posibilidad de autorizar el cambio a la Etapa III, aclarando por mensaje al CAA, que ese piloto no estará habilitado para realizar determinadas tareas relacionadas con el patrón de vuelo no cumplido.
+Una vez en la Etapa III, todos los pilotos deberán rendir anualmente la IAVU, a efectos de confirmar su categoría y cargo a bordo, y en aquellos SArm que corresponda, IAVI. 
+
+
+Lista de Control de Procedimientos (LCP) (cap. II, pág. 14-15).  
+
+La LCP deberá estar permanentemente actualizada. El contenido de la misma, especialmente lo referente a procedimientos normales y de emergencia, será motivo de permanente evaluación por parte de los Jefes de Escuadrones Aéreos. La UAR será la responsable de actualizar la LCP y emitir las Circulares de Procedimientos para su actualización.
+La responsabilidad de la lectura de la LCP y la ejecución de los procedimientos durante la operación dependerá del tipo de aeronaves. Para aeronaves con trip. compuesta por pil/copi y mecánico de vuelo: el copi o mecánico tendrá la responsabilidad de la lectura de la LCP y el pil/copi la de su ejecución/ verificación, según el rol de funciones de cada tripulante para cada uno de los SSArm.
+
+IV –LICENCIAS MILITARES (PC 13-03) (cap. III, pág. 07-13)
+Se determinó la necesidad de emitir DOS (2) tipos de licencias para el personal de Tripulantes Pilotos: una para toda operación en cumplimiento de la Misión Principal de las Fuerzas Armadas (M-0) y una 2da para desempeñar actividades en cumplimiento de las Misiones Subsidiarias de las FFAA (M-1, M-2 y M-3).
+
+Tramitación de Licencias Militares: Los Jefes de Unidad Aérea elevarán anualmente a HABILITAER – DI (con copia a DIAERMIL – DI y COAAFA – AE): 
+-Licencia M-0 / M-0H: en formato digital foto 3x3, fondo celeste, de uniforme social / servicio sin gorra, al mail dir_habilit@faa.mil.ar
+-Licencias M-1 / M-2 / M-3: elevar via correo aeronáutico listado de los trip. Con la siguiente info: Curriculum Vitae, fotos 3x3, copias certificados de CRM, CATTRI, Simulador de Vuelo y Psicofísico.
+
+DISPOSICIONES PARTICULARES (cap. IV, pág. 01-16)
+
+ETAPA I: el piloto realiza por 1ra vez el programa teórico de habilitación de un SArm. La misma puede ser solamente teórica o incluir temas en un entrenador / simulador de vuelo. Tendrá un término máximo de cumplimiento de 45 días. 
+Instrucción Teórica: Las materias impartidas en esta Etapa son específicas de cada SArm y/o especialidad y las mismas se detallan en las CCCyE correspondientes.
+Al finalizar cada materia se evaluarán los conocimientos adquiridos por las tripulaciones y los exámenes serán archivados en el Legajo Profesional del Tripulante. 
+Practica en Tierra: Aplicable únicamente a los SArm que disponen de este medio de instrucción y en aquellos temas que formen parte del Programa Teórico. 
+
+ETAPA II: Haber aprobado la Etapa I y se inicia cuando el piloto comienza el Programa de Instrucción de Vuelo. Tendrá un término máximo de cumplimiento de 365 días. 
+Practica en Vuelo: se cumplirán los Programas de Vuelo y las exigencias del CEP y/o CBO que corresponda, de acuerdo a la experiencia del piloto (CBO A, B, C, etc.).
+La deshabilitación sólo ocurrirá en el caso de que el piloto no cumpla actividad de vuelo en Función 01 por un lapso de tiempo que exceda los 45 días. 
+
+ETAPA III: El piloto realiza su Adiestramiento Operativo con el objetivo de mantener e incrementar la calificación operativa alcanzada al finalizar la Etapa II.
+
+ASPECTOS PARTICULARES DE INSTRUCCIÓN Y ADIESTRAMIENTO (cap. IV, anexo 2, pág. 1-8)
+
+Se regirá de acuerdo a lo establecido en el MAP 6 y MAP 7, además de lo determinado en “Consideraciones comunes para todas las unidades”.
+Instrucción teórica: durante la etapa I 
+Materiales y Equipos / Operación del Avión / Tránsito Aéreo / Teoría de Vuelos por Instrumentos / Gerenciamiento de Recursos Completos (CRM) / Seguridad Operacional (SMS) / Directivas de Grupo y Escuadrones Aéreos.
+
+Durante la etapa II
+Supervivencia / Aeronavegación / Meteorología / Comunicaciones / Teoría de Empleo en combate / Doctrina para la acción conjunta / Normativa Vigente (RAG 18 y DIU 1 CAA).
+Aspectos Particulares de Instrucción El tipo y características de las tareas que se realizan en los SSArm de Transporte compromete la disponibilidad de material y tiempo necesarios para cumplir procedimientos relacionados con las exigencias básicas trimestrales.
+Tal situación no exime a las unidades de la responsabilidad de asegurar que todas las tripulaciones realicen los procedimientos denominados básicos mandatorios, cuyo incumplimiento provocará la deshabilitación de los pilotos (independientemente de las hs voladas).
+Para evitar vuelos de instrucción/adiestramiento específicamente dedicados al cumplimiento de este tipo de procedimientos, se podrá planificar su práctica durante la ejecución de tareas operativas.
+
+La práctica de emergencias en aviones de transporte no podrá realizarse con pasajeros o carga a bordo, debiendo estar complementado este criterio general con las respectivas circulares de procedimientos operativos de cada SArm.
+Teoría y Práctica de Empleo de Combate Cuando la disponibilidad de hs de adiestramiento no sea suficiente para que todos los pilotos mantengan la calificación AC1 en todas las tareas operativas, el Jefe de Escuadrón deberá planificar y ejecutar un programa personalizado de adiestramiento.
+
+VUELOS AL EXTERIOR (cap. IV, anexo 2, pág. 4-8)
+Se constituirán en función de los tiempos máximos de servicio, estando compuesta como mínimo por 2 pilotos habilitados como CTE (al menos uno deberá ser inspector/instructor del SArm).
+
+INFORMES Y DOCUMENTOS (cap. VI, pág. 1-18)
+I-INFORME DE HORAS DE VUELO Las UUAA deben remitir al Dto Adiestramiento del CAA, informes trimestrales y semestrales de la actividad aérea desarrollada.
+
+II - INFORME TRIMESTRAL DE HORAS DE VUELO Registra el cumplimiento de las hs de vuelo trimestrales de todos los tripulantes, a través del cual se visualizan los problemas que cada UA puede tener para cumplir con los temas del CBO/CEP o Programas de Adiestramiento de cada SArm. Se eleva por expediente al CAA, Dpto Adiestramiento antes del 5to día hábil posterior al cierre del trimestre. De la misma manera se adelanta vía SIL o email institucional a buecoda@faa.mil.ar 
+Se ajustará al modelo proporcionado por el SIRCAV, con datos extraídos de este sistema.
+Con la siguiente información:
+Horas de vuelo discriminadas en cada función / categoría alcanzada al cierre del trimestre / en NOTA al pie deberán especificarse las causas del incumplimiento de las exigencias básicas. Códigos de referencia:
+Código 1: Falta de material.
+Código 2: Licencias especiales (No L.A.R).
+Código 3: Curso Básico de Conducción.
+Código 4: Otros cursos / comisiones del servicio (especificar).
+Código 5: Falta de Asignación de horas PAO.
+Código 6: Orden superior (prioridad en la asignación de tareas).
+Código 7: Desafectación del SArm.
+Código 8: Meteorología adversa.
+Código 9: otras causas (especificar).
+
+III – DISTRIBUCIÓN DE HORAS PREVISTAS POR AÑO POR PILOTO (cap. VI, pág. 2-18)
+En función de las hs del PAO, cada unidad elevará a este comando la distribución de hs previstas por año, por SArm y por piloto. Será elevada al CAA (dpto. Adiestramiento) por expediente y adelantado vía SIL, antes del 15 de febrero de cada año. De igual manera, al principio de cada trimestre en forma simultánea con el Informe Trimestral de Actividad Aérea y así poder visualizar el impacto para el resto del año, producido por la actividad en el trimestre anterior, apenas finalizado.
+IV – INFORMES SOBRE MODIFICACIONES DE LA CATEGORÍA (cap. VI, pág. 3-18)
+Las obtenciones de cada categoría deberán ser informadas por las UUAARR, por medio de correo aeronáutico ejecutivo al CAA (dpto Adst) e informativo a la Dirección de Aeronavegabilidad Militar (HABILITAER – DI). Los mismos son de carácter individual por piloto. Únicamente los Escuadrones CEPAC, CEPAT y CEPAHC podrán emitir mensajes multitudinarios.
+La perdida y recuperación de la categoría y su rehabilitación deberá ser informada por las UUAA de igual manera, con las siguientes consideraciones: 
+•Cuando la causa de la deshabilitacion sea porque pasaron 45 días sin volar, el mensaje deberá ser elevado el primer día hábil posterior a la deshabilitacion.
+•Cuando sea por incumplimiento de las exigencias trimestrales, informara por mensaje el primer día hábil del trimestre entrante con fecha de deshabilitacion a partir del primer día calendario del trimestre en curso.
+
+En el caso de las rehabilitaciones, deberá constar en el mensaje:
+
+•Causa de la deshabilitacion
+•Condición de la Etapa IV al inicio del proceso de rehabilitación
+•Temas impartidos en el proceso de rehabilitación: temas teóricos | temas de vuelo | temas de entrenador-simulador
+•Horas de vuelo insumidas durante el proceso de rehabilitación.
+
+
+
+
+
+
+
+
+
+
+
+
